@@ -2,11 +2,11 @@ create a branch and switch:
 git checkout -b branch-name
 
 steps to push a file:  
-git init  
-git add .  
-git add message.java  
-git commit -m "hello"   
-git push origin dev   
+- git init  
+- git add .  
+- git add message.java  
+- git commit -m "hello"   
+- git push origin dev   
 
 
 **feature branch - a dedicated branch which can be merged lateer with the the product using commands**
